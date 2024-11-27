@@ -123,10 +123,10 @@ public class BillCalculatorGUI {
                         case "Standard":
                             roomCost = 3000;
                             break;
-                        case "Deluxe":
+                        case "Single Bed":
                             roomCost = 5000;
                             break;
-                        case "Suite":
+                        case "Double Bed":
                             roomCost = 8000;
                             break;
                         default:
